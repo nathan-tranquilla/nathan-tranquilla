@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My journey in software started in University when doing some summer work for my Physics professor between my third and fourth years, messing around with Matlab. What piqued my interest then has blossomed into a career more than 12 years later, centered around web development. 
+My journey in software started in university when doing some summer work for my Physics professor between my third and fourth years, messing around with Matlab. What piqued my interest then has blossomed into a career more than 12 years later, centered around web development. 
 
 I have seen front-end development frameworks evolve from PHP to Backbone, to Angular and React. I have dabbled with static site generators such as 11ty and others. I have struggled with the various frameworks but yet have not seen one framework emerge as the de-facto choice. 
 
