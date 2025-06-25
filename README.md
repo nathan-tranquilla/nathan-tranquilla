@@ -8,6 +8,8 @@ But as my JavaScript expertise grew, so did my frustrations. The language’s la
 
 Now, I’m channeling that clarity into a bold mission: to define the next generation of web development. I want to make web development more robust, bug-resistant, and delightful for developers.
 
+Check out the Next-Gen Web Dev Manifesto [here](https://github.com/nathan-tranquilla/next-gen-web-dev-manifesto).
+
 Join me on this journey!  
 📺 Follow my thoughts and experiments on [YouTube](https://www.youtube.com/@NathanTranquilla)  
 🌐 Let’s connect to build the future of the web.
